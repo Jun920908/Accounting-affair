@@ -1,8 +1,9 @@
-# Accounting-affair-Class C
-Accounting-affair-Check
+# Accounting-affair
+<h2>Accounting-affair-Check</h2>
 
+<h3>Accounting-affair-Class C </h3>
 
-<li>battery of tests-1
+<h4><li>battery of tests-1
 <li>battery of tests-2
 <li>battery of tests-3
 <li>battery of tests-4
@@ -16,4 +17,4 @@ Accounting-affair-Check
 <li>battery of tests-12
 <li>battery of tests-13
 <li>battery of tests-14
-<li>battery of tests-15
+<li>battery of tests-15</h4>
